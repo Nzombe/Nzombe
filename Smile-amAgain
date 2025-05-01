@@ -1,0 +1,7 @@
+Smile-Again/
+├── src/                       # Source code for the project
+├── public/                    # Public assets
+├── tests/                     # Test cases
+├── docs/                      # Documentation
+├── README.md                  # Project overview
+├── .gitignore                 # Git ignore file
